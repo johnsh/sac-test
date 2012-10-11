@@ -1,4 +1,4 @@
 language: node_js
 script:
-  - "phantomjs run-qunit.js test/testing.js"
+  - "phantomjs run-qunit.js test/index.html"
   
