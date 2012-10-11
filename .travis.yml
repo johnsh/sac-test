@@ -1,4 +1,4 @@
 language: node_js
 script:
-  - "phantomjs test/testing.js"
+  - "phantomjs test/index.html"
   
